@@ -1,3 +1,4 @@
+#this quest was about creating a simple text-based adventure game using functions and user input
 def forest():
     print("You are in a dark forest. You survived!")
 
