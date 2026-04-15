@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# This quest is about creating a master spell that combines two functions: one to ask for the user's age and another to determine if they are old enough to vote. The master spell should call both functions in sequence.
 def ask_for_age():
     age = int(input("Enter your age: "))
     return age
