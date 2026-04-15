@@ -1,5 +1,5 @@
-#!/usr/bin/python3
-#this quest was about using a for loop to find even numbers between 1 and 20
-for number in 1 to 20:
-	if (number mod 2) == 0:
-		print("The number is even: ", number}
+# quest_20.py
+# Using the modulo operator (%) inside a loop to filter numbers
+for num in range(1, 21):
+    if num % 2 == 0: # If remainder is 0 when divided by 2, it is even
+        print(f"{num} is even.")
