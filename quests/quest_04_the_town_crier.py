@@ -1,3 +1,4 @@
+#this quest was about displaying three variables using one print statement
 city="Paris"
 year=2026
 name="Kelechi"
