@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# This quest was about creating a simple calculator using functions and user input
 def add(a, b):
     return a + b
 
